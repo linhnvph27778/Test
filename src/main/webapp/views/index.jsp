@@ -44,7 +44,7 @@
                 <tr>
                     <th>Mã</th>
                     <th>Tên phiếu linhhhhhh</th>
-                    <th>Ngày bắt đầu</th>
+                    <th>Ngày bắt uuuuu</th>
                     <th>Ngày kết thúc</th>
                     <th>Giá trị giảm</th>
                     <th>Trạng thái</th>

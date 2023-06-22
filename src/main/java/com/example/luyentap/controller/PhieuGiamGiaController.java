@@ -55,6 +55,7 @@ public class PhieuGiamGiaController {
         }else {
             httpSession.setAttribute("confim","Cập nhật thanh công");
             phieuGiamGiaSercive.add(phieuGiamGia);
+            System.out.println("linhddtr");
             return "redirect:/phieu-giam-gia/hien-thi";
         }
     }
