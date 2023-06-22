@@ -43,7 +43,7 @@
             <thead class="bg-info">
                 <tr>
                     <th>Mã</th>
-                    <th>Tên phiếu</th>
+                    <th>Tên phiếu linhhhhhh</th>
                     <th>Ngày bắt đầu</th>
                     <th>Ngày kết thúc</th>
                     <th>Giá trị giảm</th>
